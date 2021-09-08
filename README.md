@@ -30,3 +30,22 @@ To answer the questions we have using Python, we did write a Python script. To h
 
 All four of these files are zipped up in the **Bikeshare** file in the resource.
 
+## Data Exploring Questions
+
+**Python script will answers the following questions about the provided data for US Bikeshare:**
+
+* What is the most popular month for start time?
+* What is the most popular day of week (Monday, Tuesday, etc.) for start time?
+* What is the most popular hour of day for start time?
+* What is the total trip duration and average trip duration?
+* What is the most popular start station and most popular end station?
+* What is the most popular trip?
+* What are the counts of each user type?
+* What are the counts of gender?
+* What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
+
+## Acknowledgment
+
+All thanks to MiSK Foundation to sponsoring this course through Udacity platform. 
+
+Also I would like to thank our session lead Mr. Rakan and all session leads who helped through out the course.
